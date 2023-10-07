@@ -1,4 +1,4 @@
-### Hey, I'm Luhmaa!
+### Hey, I'm luhmaa!
 
 <!--
 **luhmaa/luhmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
